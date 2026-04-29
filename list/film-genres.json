@@ -1,0 +1,24 @@
+{
+  "emoji": "🎬",
+  "title": "Film Genres",
+  "concepts": [
+    "Action",
+    "Drama",
+    "Comedy",
+    "Horror",
+    "Thriller",
+    "Science Fiction",
+    "Romance",
+    "Animation",
+    "Documentary",
+    "Musical",
+    "Western",
+    "Fantasy",
+    "Mystery",
+    "Crime",
+    "War",
+    "Biographical",
+    "Noir",
+    "Satire"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "emoji": "🃏",
+  "title": "Poker Hands",
+  "concepts": [
+    "Pair",
+    "High Card",
+    "Flush",
+    "Straight",
+    "Three of a Kind",
+    "Two Pair",
+    "Royal Flush",
+    "Straight Flush",
+    "Four of a Kind",
+    "Full House"
+  ]
+}
